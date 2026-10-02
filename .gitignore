@@ -1,0 +1,13 @@
+node_modules
+.npm-cache
+.vercel-cli
+.preview-profile
+.preview-profile-chrome
+.preview-*.png
+.qa
+.next
+out
+.vercel
+*.tsbuildinfo
+.env*
+!.env.example
